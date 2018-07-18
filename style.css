@@ -1,0 +1,22 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css');
+
+@font-face {
+    font-family:RubikRegular ; /* Гарнитура шрифта */
+    src: url(font/RubikRegular.ttf); /* Путь к файлу со шрифтом */
+   }
+
+html,
+body {
+  height: 100%;
+  font-family:RubikRegular;
+}
+
+.carousel,
+.carousel-inner,
+.carousel-inner .item,
+.carousel-inner img {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.a{border:1px solid white;}
