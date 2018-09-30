@@ -3856,7 +3856,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav {
 
-	background-color:#808000;
+	background-color:#2F2F41;
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -3875,7 +3875,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eeecba;
+  background-color: #D7D7E0;
   color: black;
 }
 .nav > li.disabled > a {
