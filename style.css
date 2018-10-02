@@ -22,3 +22,6 @@ body {
 .a{border:1px solid white;}
 .ff{background-color:#2F2F41;
 color:white;}
+.cons {float:right;
+	font-style:italic;
+}
