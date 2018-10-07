@@ -29,4 +29,5 @@ padding-top: 100px;
       
 }
 .container-field{overflow:hidden;}
-.lgl {   padding-left: 100px;}
+.lgl {text-align:left;   padding-left: 100px;}
+.lgr {text-align:right; }
