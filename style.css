@@ -2,12 +2,12 @@
 
 @font-face {
     font-family:RubikRegular ; /* Гарнитура шрифта */
-    src: url(font/RubikRegular.ttf); /* Путь к файлу со шрифтом */
+    src: url(/font/RubikRegular.ttf); /* Путь к файлу со шрифтом */
    }
 
 @font-face {
     font-family:HeinrichScript ; /* Гарнитура шрифта */
-    src: url(font/HeinrichScript.ttf); /* Путь к файлу со шрифтом */
+    src: url(/font/HeinrichScript.ttf); /* Путь к файлу со шрифтом */
 }
 
 html,
