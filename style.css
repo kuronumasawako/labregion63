@@ -10,6 +10,11 @@
     src: url(/font/HeinrichScript.ttf); /* Путь к файлу со шрифтом */
 }
 
+@font-face {
+    font-family:GABRIOLA ; /* Гарнитура шрифта */
+    src: url(/font/GABRIOLA.ttf); /* Путь к файлу со шрифтом */
+}
+
 html,
 body {
   height: 100%;
@@ -31,7 +36,7 @@ color:white;}
 
 padding-top: 50px;
     padding-right: 100px;
-   font-family:HeinrichScript;
+   font-family:GABRIOLA;
 }
 .container-field{overflow:hidden;}
 .lgl {text-align:left;   padding-left: 100px;}
