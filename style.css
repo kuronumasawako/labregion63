@@ -32,13 +32,13 @@ body {
 .a{border:1px solid white;}
 .ff{background-color:#2F2F41;
 color:white;}
-.lg{font-size:18pt; 
+.lg{font-size:17pt; 
 
 padding-top: 50px;
-    padding-right: 50px;
+    padding-right: 35px;
    font-family:GARABD;
 }
 .container-field{overflow:hidden;}
-.lgl {text-align:left;   padding-left: 50px;}
+.lgl {text-align:left;   padding-left: 35px;}
 .lgr {text-align:right; }
 .loz{text-align:right;   font-family:HeinrichScript; font-size:14pt;}
